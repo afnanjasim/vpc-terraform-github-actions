@@ -1,6 +1,6 @@
 # Create and manage infrastructure using Terraform and automate the deployment process with GitHub Actions.
 
-![Project Flow]
+![Project Flow](https://github.com/afnanjasim/vpc-terraform-github-actions/blob/feature/projectflow.jpg)
  
  ## Introduction 
  This GitHub project provides a comprehensive guide and a set of resources to create and manage infrastructure using Terraform and automate the deployment process using GitHub Actions. 
